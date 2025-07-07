@@ -1,6 +1,7 @@
 # soilmoistureforecasting_SDRexample
 
 This is the code for the manuscript "Short-term Forecasting and Fine-resolution Mapping of Multi-layer Soil Moisture Using Remote Sensing Image Fusion and Ensemble Learning" submitted to Computers and Geosciences.
+
 Ruizhen Wang, Weitao Chen, Pingkang Wang, Hao Chen, Xuwen Qin
 
 All code mentioned in this paper is either already open-source and on github. 
